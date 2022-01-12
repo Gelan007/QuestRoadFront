@@ -1,0 +1,65 @@
+{
+  "quest": {
+    "title": "Quest list",
+    "name": "Name",
+    "price": "Price",
+    "address": "Address",
+    "maxCount": "Max users count",
+    "city": "City",
+    "category": "Category",
+    "difficulty_level": "Difficulty level"
+  },
+  "header": {
+    "panel": "Panel",
+    "quests": "Quests",
+    "review": "Reviews",
+    "booking": "Book",
+    "cabinet": "Cabinet",
+    "enter": "Enter"
+  },
+  "login": {
+    "hello": "Welcome in  ",
+    "registration": "Do not have an account yet? Please sign up ",
+    "here": "here",
+    "enter": "Enter"
+  },
+  "registration": {
+    "hello": "Welcome in ",
+    "registration": "Do you already have an account? Enter ",
+    "here": "here",
+    "registr": "Register",
+    "enterName": "Enter your name",
+    "enterEmail": "Enter your email",
+    "enterPhone": "Enter your phone",
+    "enterPassword": "Enter your password"
+  },
+  "review": {
+    "userReviews": "Відгуки користувачів",
+    "allReviews": "Усі відгуки",
+    "here": "Залишіть свій відгук тут!",
+    "enterNeed": "Увійдіть в аккаунт щоб залишити свій відгук",
+    "send": "Відправити"
+  },
+  "cabinet": {
+    "userCabinet": "User cabinet",
+    "helloUser": "Hello, ",
+    "logOff": "Log off",
+    "userRecordings": "Your recordings",
+    "dates": "Dates",
+    "price": "Prices",
+    "makeBooking": "Make booking"
+  },
+  "mainSlider": {
+    "header": "QuestRoad is a platform where many quests of different companies are collected, for which you can make a quick reservation with friends!"
+  },
+  "booking": {
+    "onlineBooking": "Online booking",
+    "choose": "Choose needed parameters",
+    "date": "Choose date",
+    "teamName": "Choose team name",
+    "count": "Choose count of users",
+    "review": "Left a comment",
+    "questName": "Choose quest",
+    "makeBook": "Make booking"
+  }
+}

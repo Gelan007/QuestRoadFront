@@ -1,0 +1,47 @@
+.main{
+background-color: #FFF9F1;
+
+}
+
+.crafth1{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.ph1{
+    font-size: 25px;
+    margin-top: 15px;
+    line-height: 32px;
+}
+
+.mainblock{
+    background-color: #ece6de;
+    padding-top: 25px;
+  padding-bottom: 25px;
+    height: auto;
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 25px;
+
+}
+
+.row{
+    display: flex;
+    width: 90%;
+    margin-left: auto;margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.col3{
+    width: 33.3%;    margin-left: 25px;
+}
+
+.pic1{
+    width: 100%;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,115 @@
+.doneBlock{
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 1px brown solid;
+    border-radius: 10px;
+    margin-left: auto;margin-right: auto;
+    padding: 50px;
+    margin-bottom: 25px;
+}
+
+.goback{
+    border: 1px rgb(85, 47, 47) solid;
+    border-radius: 10px;
+    margin-left: auto;margin-right: auto;
+    padding: 5px 15px;
+    color: brown;
+    font-weight: 500;
+    text-decoration: none;
+    transition: 0.5s;
+  
+}
+.goback:hover{
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+}
+.we{
+    margin-bottom: 25px;
+}
+
+.table{
+    border: 2px solid brown;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+   background-color: rgb(139, 63, 63);
+   color: white;
+    margin-bottom: 25px;
+}
+
+.headtable{
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid white;
+    margin-bottom: 5px;
+}
+.type{
+    margin-right: 20px;
+}
+
+.name{
+    margin-right: 20px;
+}
+.time{
+    margin-right: 20px;
+}
+.price{
+    margin-right: 10px;
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+}
+
+.ht_text{
+    margin-right: 20px;
+}
+
+.goback_block{
+    text-align: center;
+}
+.promo{
+    text-align: center;
+}
+.input_promo1{
+    margin-left: 15px;
+    width: 385px;
+    height: 40px;
+    left: 787px;
+    top: 391px;
+    background: conic-gradient(from -3.29deg at 100% -13%, #FFF9F1 0deg, #FFFFFF 360deg);
+    backdrop-filter: blur(30px);
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 10px;
+    color: #83583A;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-bottom: 15px;
+}
+form{
+    display: grid;
+}
+
+.btn_accept{
+    
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 500;
+    align-items: center;
+    text-align: center;
+    color: #83583A;
+    background: conic-gradient(from 
+-3.29deg at 100% -13%, #FFF9F1 
+0deg, #FFFFFF 
+360deg);
+    box-shadow: 0px 0px 30px rgb(255 127 80 / 50%);
+    border-radius: 5px;
+    padding: 8px 8px;
+    text-decoration: none;
+    border: navajowhite;
+    margin-bottom: 50px;
+}
